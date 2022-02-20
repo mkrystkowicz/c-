@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{31468164-990B-4966-8B60-0677885786B5}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="CarRent/Program.cs">
+    <Files>
+      <File FileName="CarRent/Program.cs" Line="21" Column="42" />
+      <File FileName="CarRent/GaragePopulator.cs" Line="67" Column="78" />
+      <File FileName="CarRent/AddCarOption.cs" Line="71" Column="20" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="CarRent" expanded="True">
+            <Node name="CarRent" expanded="True">
+              <Node name="Vehicle" expanded="True">
+                <Node name="Vehicles" expanded="True" />
+              </Node>
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|anycpu" />
+  <MonoDevelop.Ide.ItemProperties.CarRent PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

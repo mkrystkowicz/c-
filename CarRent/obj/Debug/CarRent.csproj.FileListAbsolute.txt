@@ -1,0 +1,5 @@
+/Users/krisek/Projects/CarRent/CarRent/bin/Debug/CarRent.exe
+/Users/krisek/Projects/CarRent/CarRent/bin/Debug/CarRent.pdb
+/Users/krisek/Projects/CarRent/CarRent/obj/Debug/CarRent.csproj.CoreCompileInputs.cache
+/Users/krisek/Projects/CarRent/CarRent/obj/Debug/CarRent.exe
+/Users/krisek/Projects/CarRent/CarRent/obj/Debug/CarRent.pdb
